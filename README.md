@@ -1,6 +1,6 @@
-# 📚 Projeto Laravel - Alunos
+# Projeto Laravel - Alunos
 
-Este projeto foi desenvolvido como parte da tarefa de instalação e configuração do **Laravel** com **MySQL**, incluindo a criação de uma migration para gerar a tabela `alunos` no banco de dados.
+Projeto em PHP com uso do Laravel para gerenciar tabelas e registros do banco de dados
 
 ---
 
